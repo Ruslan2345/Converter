@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/context2item1"
+        android:enabled="true"
+        android:orderInCategory="1"
+        android:title="@string/usd1"
+        android:visible="true" />
+    <item
+        android:id="@+id/context2item2"
+        android:enabled="true"
+        android:orderInCategory="2"
+        android:title="@string/eur1"
+        android:visible="true" />
+    <item
+        android:id="@+id/context2item3"
+        android:enabled="true"
+        android:orderInCategory="3"
+        android:title="@string/aud1"
+        android:visible="true" />
+    <item
+        android:id="@+id/context2item4"
+        android:enabled="true"
+        android:orderInCategory="4"
+        android:title="@string/byn1"
+        android:visible="true" />
+    <item
+        android:id="@+id/context2item5"
+        android:enabled="true"
+        android:orderInCategory="5"
+        android:title="@string/bgn1"
+        android:visible="true" />
+    <item
+        android:id="@+id/context2item6"
+        android:enabled="true"
+        android:orderInCategory="6"
+        android:title="@string/hkd1"
+        android:visible="true" />
+    <item
+        android:id="@+id/context2item7"
+        android:enabled="true"
+        android:orderInCategory="7"
+        android:title="@string/dkk1"
+        android:visible="true" />
+    <item
+        android:id="@+id/context2item8"
+        android:enabled="true"
+        android:orderInCategory="8"
+        android:title="@string/uah1"
+        android:visible="true" />
+</menu>

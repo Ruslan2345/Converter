@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="usd">USD</string>
+    <string name="eur">EUR</string>
+    <string name="aud">AUD</string>
+    <string name="bgn">BGN</string>
+    <string name="byn">BYN</string>
+    <string name="hkd">HKD</string>
+    <string name="dkk">DKK</string>
+    <string name="uah">UAH</string>
+    <string name="usd1">USD</string>
+    <string name="eur1">EUR</string>
+    <string name="aud1">AUD</string>
+    <string name="bgn1">BGN</string>
+    <string name="byn1">BYN</string>
+    <string name="hkd1">HKD</string>
+    <string name="dkk1">DKK</string>
+    <string name="uah1">UAH</string>
+    <string name="kurs2">Курс: 2021</string>
+    <string name="kurs3">Курс: 2020</string>
+    <string name="kurs4">Курс: 2019</string>
+    <string name="kurs5">Курс: 2018</string>
+    <string name="kurs1">Курс: 2022</string>
+
+</resources>

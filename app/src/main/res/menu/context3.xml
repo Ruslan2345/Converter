@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/context3item1"
+        android:enabled="true"
+        android:orderInCategory="1"
+        android:title="@string/kurs1"
+        android:visible="true" />
+    <item
+        android:id="@+id/context3item2"
+        android:enabled="true"
+        android:orderInCategory="2"
+        android:title="@string/kurs2"
+        android:visible="true" />
+    <item
+        android:id="@+id/context3item3"
+        android:enabled="true"
+        android:orderInCategory="3"
+        android:title="@string/kurs3"
+        android:visible="true" />
+    <item
+        android:id="@+id/context3item4"
+        android:enabled="true"
+        android:orderInCategory="4"
+        android:title="@string/kurs4"
+        android:visible="true" />
+    <item
+        android:id="@+id/context3item5"
+        android:enabled="true"
+        android:orderInCategory="5"
+        android:title="@string/kurs5"
+        android:visible="true" />
+</menu>
